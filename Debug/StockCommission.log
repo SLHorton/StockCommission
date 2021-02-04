@@ -1,0 +1,4 @@
+﻿  StockCommission.cpp
+C:\Users\shelb\OneDrive\Documents\2021 School\Spring\Intro to C++ Programming\Chapter 2\StockCommission\StockCommission.cpp(11,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shelb\OneDrive\Documents\2021 School\Spring\Intro to C++ Programming\Chapter 2\StockCommission\StockCommission.cpp(13,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  StockCommission.vcxproj -> C:\Users\shelb\OneDrive\Documents\2021 School\Spring\Intro to C++ Programming\Chapter 2\StockCommission\Debug\StockCommission.exe

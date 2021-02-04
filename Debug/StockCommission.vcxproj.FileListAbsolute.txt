@@ -1,0 +1,2 @@
+C:\Users\shelb\OneDrive\Documents\2021 School\Spring\Intro to C++ Programming\Chapter 2\StockCommission\Debug\StockCommission.exe
+C:\Users\shelb\OneDrive\Documents\2021 School\Spring\Intro to C++ Programming\Chapter 2\StockCommission\Debug\StockCommission.pdb
